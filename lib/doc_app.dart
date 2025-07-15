@@ -3,7 +3,6 @@ import 'package:flutter_complete_app/core/routing/app_router.dart';
 import 'package:flutter_complete_app/core/routing/routes.dart';
 import 'package:flutter_complete_app/core/theming/colors.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 
 class DocApp extends StatelessWidget {
   final AppRouter appRouter = AppRouter();
